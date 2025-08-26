@@ -149,8 +149,8 @@ export default {
       },
       appState,
       paper: {
-        width: 600, // width and height of SVG canvas
-        height: 600
+        width: 800, // width and height of SVG canvas
+        height: 1300
       },
       config: {
         boundingBox:
